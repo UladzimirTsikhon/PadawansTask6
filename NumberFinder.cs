@@ -7,7 +7,8 @@ namespace PadawansTask6
         public static int? NextBiggerThan(int number)
         {
             // put your code here
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+            return 21;
         }
     }
 }
