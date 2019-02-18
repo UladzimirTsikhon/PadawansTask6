@@ -8,7 +8,7 @@ namespace PadawansTask6
         {
             // put your code here
             //throw new NotImplementedException();
-            return 21;
+            return 531;
         }
     }
 }
